@@ -1,6 +1,10 @@
-# P-D-variant
+# P&D-variant
 
-Manuscript Title:A variant of the P&D algorithm for filling depressions in raster digital elevation models
+**Manuscript Title**: A variant of the P&D algorithm for filling depressions in raster digital elevation models
+
+**Authors**: Hongqiang Wei, Guiyun Zhou
+
+**Corresponding author**: Guiyun Zhou (zhouguiyun@uestc.edu.cn)
 
 This repository contains the source codes of the algorithm presented in the manuscript above. These codes were used in performing the tests described in the manuscript.
 
