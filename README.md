@@ -1,4 +1,4 @@
-# P&D-variant
+# P-D-variant
 
 **Manuscript Title**: A variant of the P&D algorithm for filling depressions in raster digital elevation models
 
